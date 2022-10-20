@@ -9,13 +9,13 @@
      * Output (`print`) and Input (`input`)
      * Control Flow and State
          - Branching (`if`)
-         - Loop (`while`): [Math Formulas](WhileLoopMath.py)
+         - Loop (`while`): Math Formulas [Exercises](WhileLoopMath.py)
          - Functions (`def`)
      * List (a.k.a. Array)
-         - [Loop again](WhileLoopList.py)
+         - [Loop Exercises](WhileLoopList.py)
          - [LeetCode Array](https://leetcode.com/tag/array/)
          - [LeetCode String](https://leetcode.com/tag/string/)
-     * [Recursion I: Mathematics](RecursionMath.py)
+     * Recursion I: Mathematics [Exercises](RecursionMath.py)
      * Extra: Automated Testing, Predicate Logic
 
  2. _Object Oriented Programming_
@@ -35,25 +35,25 @@
      * The Master Theorem
 
  2. _Sorting and Searching Arrays_
-     * [Basic](ArraySort.py)
+     * Basic [Exercises](ArraySort.py)
          - Selection Sort
          - Insertion Sort
          - Bubble Sort
      * Recursion II: Merge Sort
-     * [Recursion III: Binary Search](BinarySearch.py)
+     * Recursion III: [Binary Search](BinarySearch.py)
 
  3. _Recursive Data Structures_
      * Linked List
      * Binary Tree
-     * [Pointer Iteration](PointerIteration.py)
-     * [Recursion IV: Linked List](RecursionLinkedList.py)
-     * [Recursion V: Binary Tree](RecursionBinaryTree.py)
+     * Pointer Iteration [Exercises](PointerIteration.py)
+     * Recursion IV: Linked List [Exercises](RecursionLinkedList.py)
+     * Recursion V: Binary Tree [Exercises](RecursionBinaryTree.py)
      * Special methods: `__len__`, `__getitem__`, `__setitem__`
-     * [LeetCode Linked List](https://leetcode.com/tag/linked-list/)
-     * [LeetCode Binary Tree](https://leetcode.com/tag/tree/)
+     * Further practice: [LeetCode Linked List](https://leetcode.com/tag/linked-list/)
+     * Further practice: [LeetCode Tree](https://leetcode.com/tag/tree/)
 
  4. _Binary Search Tree_
-     * [Operations](BinarySearchTreeOperations.py)
+     * Operations [Exercises](BinarySearchTreeOperations.py)
      * Extra: Red Black Tree
 
  5. _Graph Algorithms_
