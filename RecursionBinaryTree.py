@@ -9,6 +9,11 @@ def heightOfTree(root):
     # Note: the height is the length of the longest path from root to a leaf node
     return 0
 
+def longestPathInTree(root):
+    # Return a longest path in the binary tree (a list of BinaryTreeNode)
+    # Hint: Change the heightOfTree appropriately
+    return 0
+
 def countNodes(root):
     # Count the number of nodes in the binary tree
     return 0

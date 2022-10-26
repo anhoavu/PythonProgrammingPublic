@@ -3,6 +3,10 @@ class ListNode:
         self.value = value
         self.next = next
 
+def printList(head):
+    # Print the linked list
+    pass
+
 def lengthOfList(head):
     # Compute the length of the linked list given its head
     return 0
